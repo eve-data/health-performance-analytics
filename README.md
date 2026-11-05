@@ -133,6 +133,14 @@ Analytics & Applications
 
 ---
 
+## Dataset Highlights
+
+- 5+ years of wearable data
+- Sleep, HRV and recovery metrics
+- Activity records across multiple sports
+- GPS routes and workout details
+- Running dynamics and training load indicators
+
 ## Project Status
 
 🚧 In Progress
